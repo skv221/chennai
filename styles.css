@@ -21,7 +21,8 @@ body {
 }
 
 #title {
-    font-size: 70px;
+    font-size: 100px;
+    margin: 100px 10px 0 10px;
 }
 
 #content {
