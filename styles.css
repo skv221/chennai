@@ -17,12 +17,11 @@ body {
     flex-direction: column;
     align-items: center;
     padding: 120px;
-    height: 64vh;
+    height: 100vh;
 }
 
 #title {
     font-size: 100px;
-    margin: 100px 10px 0 10px;
 }
 
 #content {
@@ -50,6 +49,10 @@ body {
 }
 
 @media only screen and (min-width: 600px) {
+    #header {
+        height: 64vh;
+    }
+    
     #title {
         font-size: 100px;
         margin: 100px 10px 0 10px;
