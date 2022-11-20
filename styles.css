@@ -29,8 +29,6 @@ body {
 }
 
 #places {
-    height: 125vh;
-    width: 100%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -41,6 +39,7 @@ body {
     height: 400px;
     padding: 10px;
     background: #6c757d;
+    margin: 30px;
 }
 
 .ex-pic {
