@@ -48,17 +48,3 @@ body {
     border-radius: 300px;
 }
 
-@media only screen and (min-width: 600px) {
-    #header {
-        height: 83vh;
-    }
-    
-    #title {
-        font-size: 200px;
-        margin: 500px 10px 0 10px;
-    }
-
-    #content {
-        font-size: 50px;
-    }
-}
