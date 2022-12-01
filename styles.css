@@ -154,18 +154,17 @@ body {
     }
 
     .map-card {
+        flex-direction: column;
         width: 300px;
-        height: 150px;
+        height: 700px;
         margin: 50px;
         padding: 2px 5px;
-        font-size: 5px;
     }
     
     
     .gmap_iframe {
         margin-left: 10px;
-        height:100px;
-        width: 100px;
+        height:400px;
         border: 1px solid #000;
     }
 }
